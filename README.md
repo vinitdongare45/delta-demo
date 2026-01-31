@@ -3,4 +3,4 @@ This is a demo for Git and GitHub class.
 # teacher
 Shradha Khapra
 # Student
-Apna College
+Apna College.
